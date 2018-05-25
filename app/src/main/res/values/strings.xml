@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vision_projects</string>
+    <string name="action_OpenGallary">Open Gallery </string>
+    <string name="dialog_message">this is dialog</string>
+    <string name="dialog_title">this is title.</string>
+    <string name="dialog_ok">Ok !! </string>
+</resources>
